@@ -4,10 +4,16 @@
 <h3>Instalação</h3>
 
 <p>Ubuntu 20.04</p>
-<p>Debian 11</p>
 
-<code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf WhaticketWorkflow && sudo git clone https://github.com/andrew890074/WhaticketWorkflow.git && cd WhaticketWorkflow && sudo chmod +x ./automatizaai && ./automatizaai</code><br />
+
+<code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Connect.AI && sudo git clone https://github.com/andrew890074/Connect.AI.git && cd Connect.AI && sudo chmod +x ./devconnecai && ./devconnecai</code><br />
 &nbsp;</p>
+
+<h3>Atualização</h3>
+
+<code>wget -qO- up.devconnectai.com.br/up.sh | bash</code><br />
+&nbsp;</p>
+
 
 <h3>Whatsapp Suporte: +55 (51) 9957-9150<h3>
 
