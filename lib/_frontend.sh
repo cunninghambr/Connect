@@ -157,9 +157,7 @@ move_whaticket_files() {
   sudo mv /home/deployautomatizaai/whaticket/backend/automatizaai /home/deployautomatizaai/whaticket/backup/backend/
   
   sudo rm -r /home/deployautomatizaai/whaticket/frontend/package.json
-  sudo rm -r /home/deployautomatizaai/whaticket/frontend/package-lock.json
   sudo rm -r /home/deployautomatizaai/whaticket/backend/package.json
-  sudo rm -r /home/deployautomatizaai/whaticket/backend/package-lock.json
 
 
   sudo rm -rf /home/deployautomatizaai/whaticket/frontend/node_modules
