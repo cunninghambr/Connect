@@ -3,7 +3,7 @@
 
 <h3>Instalação</h3>
 
-<p>Ubuntu 20.04</p>
+<p>Ubuntu 22.04</p>
 
 
 <code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Connect.AI && sudo git clone https://github.com/andrew890074/Connect.AI.git && cd Connect.AI && sudo chmod +x ./devconnectai && ./devconnectai</code><br />
@@ -62,17 +62,17 @@
 
 <h1>Demonstração</h1>
 
-![link About do site](https://github.com/andrew890074/WhaticketWorkflow/blob/main/demonstração/facebook.jpeg)
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/tela2.png)
 
-![link About do site](https://github.com/andrew890074/WhaticketWorkflow/blob/main/demonstração/flow2.jpeg)
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/tela3.png)
 
 
-![link About do site](https://github.com/andrew890074/WhaticketWorkflow/blob/main/demonstração/flow.jpeg)
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/conexao.png)
 
-![GIF](demonstração/transcrição.gif)
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/campanha.jpeg)
 
-![GIF](demonstração/video1.gif)
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/user.png)
 
-![GIF](demonstração/api.gif)
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/importar.png)
 
-![GIF](demonstração/video2.gif)
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/install.png)
