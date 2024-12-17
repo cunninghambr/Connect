@@ -20,6 +20,23 @@
 <h3>Grupo de Suporte: https://encurtador.com.br/Q9Yl5<h3>
 <br/>
 
+<h1>Demonstração</h1>
+
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/tela2.png)
+
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/tela3.png)
+
+
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/conexao.png)
+
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/campanha.jpeg)
+
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/user.png)
+
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/importar.png)
+
+![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/install.png)
+
 ## Principais Funcionalidades
 
 - 🤖 <strong>Palavra-Chave:<strong> Ative e alterne entre fluxos automaticamente utilizando palavras-chave.<br><br>
@@ -58,21 +75,3 @@
 - Criar Agendamento ✅
 - Listar Agendamento ✅
 - Excluir Agendamento ✅
-
-
-<h1>Demonstração</h1>
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/tela2.png)
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/tela3.png)
-
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/conexao.png)
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/campanha.jpeg)
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/user.png)
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/importar.png)
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/install.png)
