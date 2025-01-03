@@ -227,9 +227,17 @@ frontend_restart_pm2() {
 
   sudo su - deployautomatizaai <<EOF
   cd /home/deployautomatizaai/whaticket/frontend
-  pm2 delete whaticket-frontend
+  pm2 delete whaticket-frontend 
   pm2 delete waticket-backend
+  pm2 delete whaticket-backend
+
   pm2 start server.js --name whaticket-frontend -i max
+
+  cd /home/deployautomatizaai/whaticket/backend
+
+  pm2 start automatizaai/server.js --name whaticket-backend -i max
+
+  pm2 save
 
   pm2 stop all
 
