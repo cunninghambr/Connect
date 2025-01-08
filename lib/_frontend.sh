@@ -231,11 +231,11 @@ frontend_restart_pm2() {
   pm2 delete waticket-backend
   pm2 delete whaticket-backend
 
-  pm2 start server.js --name whaticket-frontend -i max
+  pm2 start server.js --name whaticket-frontend
 
   cd /home/deployautomatizaai/whaticket/backend
 
-  pm2 start automatizaai/server.js --name whaticket-backend -i max
+  pm2 start automatizaai/server.js --name whaticket-backend
 
   pm2 save
 
