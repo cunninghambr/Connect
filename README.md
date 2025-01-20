@@ -12,15 +12,6 @@
 <code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Connect.AI && sudo git clone https://github.com/cunninghambr/Connect.git && cd Connect.AI && sudo chmod +x ./devconnectai && ./devconnectai</code><br />
 &nbsp;</p>
 
-<h3>Atualização</h3>
-
-<code>wget -qO- up.devconnectai.com.br/up.sh | bash</code><br />
-&nbsp;</p>
-
-
-<h3>Whatsapp Suporte: +55 (51) 9957-9150<h3>
-
-<h3>Grupo de Suporte: https://encurtador.com.br/Q9Yl5<h3>
 <br/>
 
 <h1>Demonstração</h1>
