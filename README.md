@@ -6,7 +6,7 @@
 
 <h3>Instalação</h3>
 
-<p>Ubuntu 22.04</p>
+<p>Ubuntu 20.04</p>
 
 
 <code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Connect.AI && sudo git clone https://github.com/cunninghambr/Connect.git && cd Connect.AI && sudo chmod +x ./devconnectai && ./devconnectai</code><br />
