@@ -1,8 +1,6 @@
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/fluxo5.png)
-<br/>
-<br/>
 
-<h1>Whaticket Saas</h1>
+
+<h1>Whaticket Melhorzinho</h1>
 
 <h3>Instalação</h3>
 
@@ -13,25 +11,6 @@
 &nbsp;</p>
 
 <br/>
-
-<h1>Demonstração</h1>
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/tela2.png)
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/flow2.png)
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/tela3.png)
-
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/conexao.png)
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/campanha.jpeg)
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/user.png)
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/importar.png)
-
-![link About do site](https://github.com/andrew890074/Connect.AI/blob/main/demonstração/install.png)
 
 ## Principais Funcionalidades
 
